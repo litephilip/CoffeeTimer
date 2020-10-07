@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="511c6715-ed95-432a-b45e-2f7b9da0a862" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoffeeTimer/com/company/RegisterUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoffeeTimer/com/company/RegisterUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoffeeTimer/com/company/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoffeeTimer/com/company/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CoffeeTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CoffeeTimer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/RegisterUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/RegisterUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/TimerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/TimerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +57,7 @@
       <workItem from="1601547563376" duration="36580000" />
       <workItem from="1601799795152" duration="9360000" />
       <workItem from="1601895620545" duration="12427000" />
-      <workItem from="1601991225956" duration="5570000" />
+      <workItem from="1601991225956" duration="5808000" />
     </task>
     <servers />
   </component>
