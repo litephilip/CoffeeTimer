@@ -11,10 +11,9 @@ public class TimerApplication {
     CoffeeTimer coffeeTimer = new CoffeeTimer();
     Coffee coffee = new Coffee();
     User user = new User();
-    RegisterUser registerUser = new RegisterUser();
 
     public void registerPage() {
-        registerUser.registerPage();
+        user.registerPage();
     }
 
     public void menu() {
@@ -50,21 +49,23 @@ public class TimerApplication {
 
                 case 4:
                     coffee.listCoffee();
-                    coffee.addCoffee();
+                    user.addFavourite();
                     enterMainMenu();
                     break;
 
                 case 5:
-                    user.showList();
+                    user.showFavourites();
                     enterMainMenu();
                     break;
 
                 case 6:
-                    System.out.println("4. Rate coffee");
+                    user.showFavourites();
+                    user.rateCoffee();
                     enterMainMenu();
                     break;
 
                 case 7:
+                    user.showFavourites();
                     user.shareCoffee();
                     enterMainMenu();
                     break;
@@ -84,5 +85,4 @@ public class TimerApplication {
             showMenu = false;
         }
     }
-
 }
